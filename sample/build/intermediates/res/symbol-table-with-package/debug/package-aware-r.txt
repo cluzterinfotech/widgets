@@ -658,6 +658,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable box
 drawable button_text_color
 drawable ic_add
 drawable ic_launcher_foreground
@@ -767,6 +768,8 @@ id media_actions
 id message
 id middle
 id multiply
+id name
+id name1
 id never
 id noPassenger
 id none
@@ -778,14 +781,17 @@ id packed
 id parent
 id parentPanel
 id percent
+id priceRange
 id product_qty
 id progress_circular
 id progress_horizontal
 id qut
 id qut1
+id qut2
 id radio
 id remove
 id remove1
+id remove2
 id right
 id right_icon
 id right_side

@@ -2,13 +2,13 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="27"
-    build-mode="COLD"
+    build-mode="HOT_WARM"
     density="xxhdpi"
     format="10"
     plugin-version="3.2.1"
-    timestamp="1569392909735"
+    timestamp="1569399681588"
     token="4391422673299849123"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -23,9 +23,13 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+        type="SPLIT" />
+
     <build
         build-mode="FULL"
-        timestamp="1569392408976"
+        timestamp="1569398454306"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/resources/instant-run/debug/resources-debug.apk"
@@ -37,13 +41,10 @@
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_7.apk"
@@ -52,13 +53,16 @@
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -70,13 +74,21 @@
     <build
         build-mode="COLD"
         ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1569392861404"
+        timestamp="1569399323107"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1569399408466"
+        verifier="R_CLASS_CHANGE" >
         <artifact
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -85,21 +97,22 @@
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
     </build>
     <build
-        build-mode="COLD"
-        timestamp="1569392909735"
-        verifier="COLD_SWAP_REQUESTED" />
+        build-mode="HOT_WARM"
+        timestamp="1569399681588"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+    </build>
 
 </instant-run>

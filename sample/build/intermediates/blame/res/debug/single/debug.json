@@ -504,6 +504,10 @@
         "source": "/home/dhayalprema/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f3d15e3056ac917bcb14494bf7a0741a/res/layout/abc_action_menu_layout.xml"
     },
     {
+        "merged": "/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/res/merged/debug/drawable_box.xml.flat",
+        "source": "/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/res/drawable/box.xml"
+    },
+    {
         "merged": "/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/home/dhayalprema/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f3d15e3056ac917bcb14494bf7a0741a/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },

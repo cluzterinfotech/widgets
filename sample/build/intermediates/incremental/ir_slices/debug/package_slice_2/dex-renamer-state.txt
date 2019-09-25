@@ -1,4 +1,4 @@
-#Wed Sep 25 11:57:48 IST 2019
+#Wed Sep 25 13:46:53 IST 2019
 base.0=/home/dhayalprema/StudioProjects/Weekdays-Selector/sample/build/intermediates/transforms/dexMerger/debug/2
 path.0=classes.dex
 renamed.0=classes.dex
