@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f3d15e3056ac917bcb14494bf7a0741a/AndroidManifest.xml:17:1-22:12
+MERGED from [:weekdaysselector] /home/dhayalprema/StudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28f58dcf96b267472e2193ef4e7deaed/AndroidManifest.xml:2:1-11:12
+MERGED from [info.hoang8f:android-segmented:1.0.6] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/android-segmented-1.0.6.aar/548f601550adfa2ae40c100fe0ca57a4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/375f945e97e707dfe39df30fab9dbde6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/5677de98aaeac83ce75d6d3401f4a2aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a9932bf55ac14428aa27b40226cbe092/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2ca382fd36be93456ee76993a3da7f84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a8d71d32f8a662cdde48f25867235db5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3f7a1a657490847147e442323b1d8a61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/53ccab1778e3d0d1754adb546496505d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/14100d7963c8fc93ce3ca0b4ea0a51ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d1fc337fde26fc1ac8aa6daf2db39257/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8f4ecae1e436b9661d5dbda1a80d870a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/882570e6974e2381c665989dd73cb42d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fb1b3e70b0f54e5d5d68900c8541967f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9650e29fbd0d9e10a67c525377215b04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/07eaab772fd282c0c0ca80a59994a377/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b22f71bf0337d05f7485e4a05f2eade9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/61cf0cb00d51d6be9584d4e74692f603/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aef937526c3ae3baadad39b8a5e432a9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21cf3e7bc66947fbabe93b5f3092f9e8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/98065a33e1ddfb85b430f857a3f53e27/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7e65245e62a4e79dfd42689458b492f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0ac75c3424af48e87c06fe3f6d9cb91b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/83720992f6e0638c6c06cb854c5c4202/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d75f6ca3fa096dacf22ad05f7d51dae5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dff7097a27d5567fb5defb24596efbd5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/653a119cfdc7d41cf0b99572f8d8e159/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/54e07b8ee9451e1bef3dcfdb4ee2e861/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9341378e6d574c200e21bc8a42b2bb17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a3e24c7c3dec04370804db0dcd377cb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/14e5e80d91960e504c4b9c473f82e1f7/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+		INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28f58dcf96b267472e2193ef4e7deaed/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28f58dcf96b267472e2193ef4e7deaed/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aef937526c3ae3baadad39b8a5e432a9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aef937526c3ae3baadad39b8a5e432a9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21cf3e7bc66947fbabe93b5f3092f9e8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21cf3e7bc66947fbabe93b5f3092f9e8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/14e5e80d91960e504c4b9c473f82e1f7/AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/14e5e80d91960e504c4b9c473f82e1f7/AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aef937526c3ae3baadad39b8a5e432a9/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:8:9-48
+	android:roundIcon
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:11:9-40
+activity#com.dpro.weekdaysselector.WeekDay
+ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:12:19-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:16:27-74
+activity#com.dpro.weekdaysselector.MainActivity
+ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:19:9-21:20
+	android:name
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml:19:19-47
+uses-sdk
+INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f3d15e3056ac917bcb14494bf7a0741a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f3d15e3056ac917bcb14494bf7a0741a/AndroidManifest.xml:20:5-44
+MERGED from [:weekdaysselector] /home/dhayalprema/StudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:weekdaysselector] /home/dhayalprema/StudioProjects/Weekdays-Selector/weekdaysselector/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28f58dcf96b267472e2193ef4e7deaed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28f58dcf96b267472e2193ef4e7deaed/AndroidManifest.xml:5:5-7:41
+MERGED from [info.hoang8f:android-segmented:1.0.6] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/android-segmented-1.0.6.aar/548f601550adfa2ae40c100fe0ca57a4/AndroidManifest.xml:7:5-9:41
+MERGED from [info.hoang8f:android-segmented:1.0.6] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/android-segmented-1.0.6.aar/548f601550adfa2ae40c100fe0ca57a4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v13:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/375f945e97e707dfe39df30fab9dbde6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/375f945e97e707dfe39df30fab9dbde6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/5677de98aaeac83ce75d6d3401f4a2aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/5677de98aaeac83ce75d6d3401f4a2aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a9932bf55ac14428aa27b40226cbe092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a9932bf55ac14428aa27b40226cbe092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2ca382fd36be93456ee76993a3da7f84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2ca382fd36be93456ee76993a3da7f84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a8d71d32f8a662cdde48f25867235db5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a8d71d32f8a662cdde48f25867235db5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3f7a1a657490847147e442323b1d8a61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3f7a1a657490847147e442323b1d8a61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/53ccab1778e3d0d1754adb546496505d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/53ccab1778e3d0d1754adb546496505d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/14100d7963c8fc93ce3ca0b4ea0a51ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/14100d7963c8fc93ce3ca0b4ea0a51ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d1fc337fde26fc1ac8aa6daf2db39257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d1fc337fde26fc1ac8aa6daf2db39257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8f4ecae1e436b9661d5dbda1a80d870a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8f4ecae1e436b9661d5dbda1a80d870a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/882570e6974e2381c665989dd73cb42d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/882570e6974e2381c665989dd73cb42d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fb1b3e70b0f54e5d5d68900c8541967f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fb1b3e70b0f54e5d5d68900c8541967f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9650e29fbd0d9e10a67c525377215b04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9650e29fbd0d9e10a67c525377215b04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/07eaab772fd282c0c0ca80a59994a377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/07eaab772fd282c0c0ca80a59994a377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b22f71bf0337d05f7485e4a05f2eade9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b22f71bf0337d05f7485e4a05f2eade9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/61cf0cb00d51d6be9584d4e74692f603/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/61cf0cb00d51d6be9584d4e74692f603/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aef937526c3ae3baadad39b8a5e432a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aef937526c3ae3baadad39b8a5e432a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21cf3e7bc66947fbabe93b5f3092f9e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21cf3e7bc66947fbabe93b5f3092f9e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/98065a33e1ddfb85b430f857a3f53e27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/98065a33e1ddfb85b430f857a3f53e27/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7e65245e62a4e79dfd42689458b492f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7e65245e62a4e79dfd42689458b492f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0ac75c3424af48e87c06fe3f6d9cb91b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0ac75c3424af48e87c06fe3f6d9cb91b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/83720992f6e0638c6c06cb854c5c4202/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/83720992f6e0638c6c06cb854c5c4202/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d75f6ca3fa096dacf22ad05f7d51dae5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d75f6ca3fa096dacf22ad05f7d51dae5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dff7097a27d5567fb5defb24596efbd5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dff7097a27d5567fb5defb24596efbd5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/653a119cfdc7d41cf0b99572f8d8e159/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/653a119cfdc7d41cf0b99572f8d8e159/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/54e07b8ee9451e1bef3dcfdb4ee2e861/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/54e07b8ee9451e1bef3dcfdb4ee2e861/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9341378e6d574c200e21bc8a42b2bb17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9341378e6d574c200e21bc8a42b2bb17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a3e24c7c3dec04370804db0dcd377cb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a3e24c7c3dec04370804db0dcd377cb1/AndroidManifest.xml:20:5-44
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/14e5e80d91960e504c4b9c473f82e1f7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/dhayalprema/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/14e5e80d91960e504c4b9c473f82e1f7/AndroidManifest.xml:8:5-10:41
+INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+		INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+		ADDED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
+		INJECTED from /home/dhayalprema/StudioProjects/Weekdays-Selector/sample/src/main/AndroidManifest.xml
